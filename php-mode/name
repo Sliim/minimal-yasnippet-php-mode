@@ -12,4 +12,4 @@ namespace ${7:`(mapconcat
                        )))
         )
       (file-name-sans-extension (buffer-file-name))
-      ) "/")) "\\\")`}
+      ) "/")) "\\\")`};
